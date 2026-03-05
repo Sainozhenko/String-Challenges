@@ -1,4 +1,4 @@
-# Python HTML String Manipulation Challenges
+# 🧩 Python String Manipulation Challenges — HTML Builder
 
 5 Python challenges to build and modify a minimal HTML page using string methods
 and concatenation only. No parsers, no libraries — pure string primitives.
